@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383497556860",
+    "project_id": "home-82728",
+    "storage_bucket": "home-82728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383497556860:android:fab9ab09c1c95b7c060af9",
+        "android_client_info": {
+          "package_name": "com.Raghavgupta2001.smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383497556860-tqem6coeogjgf582ih5ns5fidgm2jtqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhIG0cFhG1n-PvjQV0XAWqTukUEfpdPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383497556860-tqem6coeogjgf582ih5ns5fidgm2jtqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
